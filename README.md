@@ -40,4 +40,4 @@ An open-source dataset of retail stores selling a host of different beverages, p
 
 ## 🖼️ Project Snapshot
 
-![Beverage Sales Dashboard](Beverage-Sales-Dashboard.png)
+![Image Alt](https://github.com/yuktamyadav/Power-BI-Sales-Dashboard/blob/acf36f127c2aa849ce5e1b5e0d2db0c1a70d81fa/Beverage%20Sales%20Dashboard.png)
