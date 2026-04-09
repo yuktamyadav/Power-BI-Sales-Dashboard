@@ -2,7 +2,7 @@
 
 ## 📌 Description
 
-An end-to-end sales performance and business intelligence dashboard built on Power BI to analyse a retail chain's beverage sales. The dashboard focuses on profit growth and categorical inventory performance through structured KPIs and interactive visualizations. It enables data-driven decision-making by identifying high-performing regions for sales, profitable product categories, and customer-centric trends using ML — helping optimize sales strategy, inventory planning, and retail expansion.
+An end-to-end sales performance and business intelligence dashboard built on Power BI to analyse beverage sales across American retail chains. The dashboard focuses on profit growth and categorical inventory performance through structured KPIs and interactive visualizations. It enables data-driven decision-making by identifying high-performing regions for sales, profitable product categories, and customer-centric trends using ML — helping optimize sales strategy, inventory planning, and retail expansion.
 
 ## 🛠️ Tech Stack
 
@@ -30,7 +30,7 @@ An open-source dataset of retail stores selling a host of different beverages, p
 - **Average Price Per Unit** – Customer satisfaction indicator
 - **Average Operating Margin** – Profit percentage with respect to sales revenue
 
-### 📉 Analytical Tools & Visualizations
+### 📊 Analytical Tools & Visualizations
 
 - **Matrix Table Chart** – Displays metrics such as Total Sales, Units Sold, Average Price Per Unit, Operating Profit, and Average Operating Margin, categorized by Beverage Brands
 - **Stacked Bar Chart** – Displays sales filtered across different American States
